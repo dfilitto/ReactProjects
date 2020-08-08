@@ -22,15 +22,62 @@ header h1 {
     color: white;
 }
 
-.apodimg {
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.cxImg {
+    width:600px;
+    height:auto;
+    text-align: center;
+    margin:0px auto 5px auto;
+    padding:25px 5px 5px 5px;
   }
+  
+.cxImg img{
+  border:1px solid #ffffff;
+  box-shadow: 0px 0px 8px 0px #ccc;
+  width:300px;
+  height:300px;
+  max-width: 98%;
+  max-height: auto;
+  border-radius: 50%;
+  opacity: 1;
 
-main{
-      height: 100%;
+  
 }
+.cxImg img:hover, .cxImg img:focus{
+  transition:all;
+  transition-duration:500ms;
+  transition-delay: 100ms;
+  transform:scale(1.1,1.1);
+}
+main{
+      width:100%;
+      height: 100%;
+      padding:10px;
+}
+.cxBt{
+  width:300px;
+  height:40px;
+  margin:10px auto;
+  text-align: center;
+  padding:10px;
+  background-color: #868686;
+  border-radius: 2px;
+  border:1px solid #999;
 
+}
+.cxBt a{
+  color:#ffffff;
+  font-weight: bold;
+  margin:10px;
+  padding:10px;
+  text-decoration: none;
+}
+.cxBt:hover, .cxBt:focus{
+  transition:all;
+  transition-duration:400ms;
+  background-color: #999;
+  transition-delay: 80ms;
+  transform:scale(1.1,1.1);
+}
+footer{
+  text-align: center;
+}

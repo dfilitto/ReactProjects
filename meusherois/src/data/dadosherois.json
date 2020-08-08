@@ -1,0 +1,65 @@
+{
+    "herois":[
+        {
+            "nome":"Shazam",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(1).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(1).jpg?raw=true",
+            "descricao":"Capitão Marvel, atualmente comercializado como Shazam, é um super-herói fictício de histórias em quadrinhos pertencente ao Universo DC, alter ego ser uma criança, Billy Batson, que se transformava no herói gritando “Shazam!"
+        },
+        {
+            "nome":"One Punch-Man",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(2).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(2).jpg?raw=true",
+            "descricao":"One Punch-Man é uma série de webcomic criada pelo autor com o pseudónimo One, e é publicada desde 2009. A série rapidamente tornou-se um fenómeno viral, alcançando mais de 7,9 milhões de acessos, em junho de 2012"
+        },
+        {
+            "nome":"One Piece",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(3).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(3).jpg?raw=true",
+            "descricao":"One Piece é uma série de mangá escrita e ilustrada por Eiichiro Oda. Os capítulos têm sido serializados na revista Weekly Shōnen Jump desde 22 de julho de 1997, com os capítulos compilados e publicados em 96 volumes tankōbon pela editora Shueisha até abril de 2020. One Piece conta as aventuras de Monkey D"
+        },
+        {
+            "nome":"Joker",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(4).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(4).jpg?raw=true",
+            "descricao":"O Joker é um supervilão fictício que aparece nos livros de banda desenhada norte-americanos publicados pela editora estadunidense DC Comics. Foi criado por Jerry Robinson, Bill Finger e Bob Kane e apareceu pela primeira vez em Batman #1"
+        },
+        {
+            "nome":"Capitão América",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(5).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(5).jpg?raw=true",
+            "descricao":"Capitão América é um super-herói de histórias em quadrinhos americanos publicado pela Marvel Comics. Criado por Joe Simon e Jack Kirby, o primeiro personagem apareceu em Captain America Comics # 1 da Timely Comics, antecessora da Marvel Comics."
+        },
+        {
+            "nome":"Flash",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(6).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(6).jpg?raw=true",
+            "descricao":"Também chamado de velocista escarlate, o Flash possui , consegue mover-se a uma velocidade sobre-humana, usar reflexos sobre-humanos e violar certas Leis da física, podendo até mesmo ultrapassar a velocidade da luz"
+        },
+        {
+            "nome":"Batman",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(7).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(7).jpg?raw=true",
+            "descricao":"Batman é um personagem fictício, um super-herói da banda desenhada americana publicada pela DC Comics. Foi criado pelo escritor Bill Finger e pelo artista Bob Kane, e apareceu pela primeira vez na revista Detective Comics #27"
+        },
+        {
+            "nome":"Homen Aranha",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(8).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(8).jpg?raw=true",
+            "descricao":"O Homem-Aranha alter-ego de Peter Parker, é um personagem fictício, um super-herói que aparece nas revistas em quadrinhos americanas publicadas pela Marvel Comics, existindo no seu universo partilhado"
+        },
+        {
+            "nome":"Darkseid",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(9).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(9).jpg?raw=true",
+            "descricao":"Darkseid é um personagem fictício e um supervilão poderoso que aparece nas histórias em quadrinhos publicadas pela editora americana DC Comics, geralmente descrito como uma das maiores ameaças do Universo DC."
+        },
+        {
+            "nome":"Thor e Jane",
+            "minifoto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/thumbs/amini%20(10).jpg?raw=true",
+            "foto":"https://github.com/dfilitto/ProjectsAdobeXD/blob/master/Galeria%20de%20her%C3%B3is/Fotos/a%20(10).jpg?raw=true",
+            "descricao":"Jane Foster, mais tarde Jane Foster Kincaid, é uma personagem fictícia dos quadrinhos da Marvel Comics, uma das mais importantes coadjuvantes das primeiras aventuras de Thor, o deus do trovão. Criada por Jack Kirby, Larry Lieber e Stan Lee, sua estreia foi em Journey Into Mystery #84. "
+        }
+        
+    ]
+}

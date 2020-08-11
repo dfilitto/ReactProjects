@@ -1,9 +1,13 @@
+html{
+  background-color: #282c34;
+}
+
 .App {
   text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 120px;
   pointer-events: none;
 }
 
@@ -14,8 +18,13 @@
 }
 
 .App-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-main {
   background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -1,0 +1,25 @@
+  div.polaroid {
+    border-radius: 2%;
+    color: black;
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  div.polaroid h2{
+    padding: 0px 0px 10px 10px;
+    margin: 0px;
+    text-shadow: rgb(34, 33, 33) 2px 3px 2px;
+    font-size: 40px;
+    text-align: left;
+  }
+
+  img {width: 100%}
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+    color: black;
+  }

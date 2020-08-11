@@ -1,12 +1,14 @@
 import React from 'react';
+import './meuheroi.css';
 
 function MeuHeroi(props) {
     return (
-      <div>
+      <div className="polaroid">
         <h2>{props.heroi.nome}</h2>
         <img src={props.heroi.foto} alt={"Foto do "+props.heroi.nome}/>
-        <h3>Dados do herói</h3>
-        <p>{props.heroi.descricao}</p>
+        <div className="container" >
+          <p>{props.heroi.descricao}</p>
+        </div>  
       </div>
     );
   }

@@ -1,0 +1,19 @@
+##########################################
+
+Projeto: (lampada) Lâmpada Interativa em React
+
+Descrição: Um componente React que simula uma lâmpada que pode ser acesa, apagada e quebrada após 20 cliques. 
+Desenvolvido com Vite, o projeto demonstra conceitos fundamentais como:
+- Gerenciamento de estado (useState)
+- Renderização condicional (troca de imagens e mensagens)
+- Eventos de clique (onClick)
+- CSS modular (estilos dedicados com classes dinâmicas)
+- Feedback visual (hover, transições e estados de erro)
+
+Funcionalidades:
+- Acende/apaga ao clicar
+- Contador de cliques visível
+- Quebra após 20 usos (com imagem e mensagem de aviso)
+- Botão de reset para reiniciar
+
+##########################################

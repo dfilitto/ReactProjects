@@ -1,0 +1,29 @@
+/* Container principal */
+.lampada-container {
+    text-align: center;
+    padding: 50px;
+    width: 70%;
+    height: 70%;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  /* Imagem da lâmpada */
+  .lampada-img {
+    max-width: 300px;
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .lampada-img:hover:not(.quebrada) {
+    transform: scale(1.05);
+  }
+  
+  .lampada-img.quebrada {
+    cursor: not-allowed;
+    opacity: 0.8;
+  }
+  
+  

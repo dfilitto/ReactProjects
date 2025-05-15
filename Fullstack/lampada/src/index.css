@@ -1,0 +1,7 @@
+body {
+  display: flex;
+  justify-content: center; /* centraliza horizontalmente */
+  align-items: center;     /* centraliza verticalmente */
+  height: 100vh;           /* Garante altura total da tela */
+  background-color: #949393; /* Cor de fundo */
+}

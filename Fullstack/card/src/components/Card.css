@@ -1,0 +1,24 @@
+
+/* formatações do card e foto*/
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    width: 300px;
+  }
+  
+  .foto {
+      width: 100%;
+      border-radius: 4px;
+      /*object-fit: cover;
+      object-position: center; */
+  }
+  
+  .linha {
+    border: 1px solid #000;
+    width: 300px;
+  }

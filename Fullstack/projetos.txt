@@ -1,19 +1,18 @@
 ##########################################
 
 Projeto: (lampada) Lâmpada Interativa em React
-
 Descrição: Um componente React que simula uma lâmpada que pode ser acesa, apagada e quebrada após 20 cliques. 
-Desenvolvido com Vite, o projeto demonstra conceitos fundamentais como:
-- Gerenciamento de estado (useState)
-- Renderização condicional (troca de imagens e mensagens)
-- Eventos de clique (onClick)
-- CSS modular (estilos dedicados com classes dinâmicas)
-- Feedback visual (hover, transições e estados de erro)
-
-Funcionalidades:
-- Acende/apaga ao clicar
-- Contador de cliques visível
-- Quebra após 20 usos (com imagem e mensagem de aviso)
-- Botão de reset para reiniciar
+Desenvolvido com Vite.
 
 ##########################################
+
+Projeto: (card) Cartão de informação
+Descrição: Este projeto consiste na criação de um componente em React chamado CardPlus, que exibe informações de forma visualmente 
+agradável utilizando uma imagem, título e descrição. Esses dados são passados como propriedades para o componente.
+Desenvolvido com Vite.
+
+##########################################
+
+Projeto: (adivinhacaonumerica) Jogo da adivinhação
+Descrição: Jogo no qual o pc escolhe um numero entre ! e 10 e você deve tentar adivinhar. Caso erre o programa lhe da dicas 
+se o numero é maior ou menor.
